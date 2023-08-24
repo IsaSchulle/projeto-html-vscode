@@ -1,1 +1,1 @@
-Projeto de curso, criando pokedez.
+Projeto de curso, criando pokedex.
