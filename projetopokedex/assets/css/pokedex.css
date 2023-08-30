@@ -113,12 +113,12 @@
 
 .pokemon .detail .types .type {
     color: #fff;
-    margin: .25rem 0;
+    margin: 0.25rem 0;
     font-size: .9rem;
-    border-radius: 1rem;
+    border-radius: 7px;
     filter: brightness(1.1);
     text-align: center;
-    filter: brightness(1.1);
+    padding: 3px;
 }
 
 .pokemon .detail img {
